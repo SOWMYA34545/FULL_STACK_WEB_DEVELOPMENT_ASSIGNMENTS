@@ -1,3 +1,3 @@
 # FULL_STACK_WEB_DEVELOPMENT_ASSIGNMENTS
 
-6. [Assignment-6] (https://sowmya34545.github.io/FULL_STACK_WEB_DEVELOPMENT_ASSIGNMENTS/Assignment-6/6.html)
+6. Assignment-6 [https://sowmya34545.github.io/FULL_STACK_WEB_DEVELOPMENT_ASSIGNMENTS/Assignment-6/6.html]
