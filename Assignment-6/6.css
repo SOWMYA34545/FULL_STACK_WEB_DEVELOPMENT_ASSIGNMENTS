@@ -1,0 +1,16 @@
+*{
+    background-image: url(../../../assets/emp-3.jpg);
+    text-align: center;
+   background-repeat: inherit;
+   background-size: cover;
+}
+div{
+    margin-top:100px;
+}
+h1{
+    text-transform: uppercase;
+}
+button{
+    border-radius: 50px;
+    border-color: magenta;
+}

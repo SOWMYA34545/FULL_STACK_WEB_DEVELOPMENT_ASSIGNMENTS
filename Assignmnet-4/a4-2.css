@@ -1,0 +1,13 @@
+#img1{
+    width: 350px;
+    float:left;
+    padding:1.5%;
+}
+#img2{
+    width: 350px;
+    float:right;
+    padding:1.5%;
+}
+body{
+    font-size:large;
+}
